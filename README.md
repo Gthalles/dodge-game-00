@@ -57,9 +57,3 @@ Abra o endereço mostrado no terminal (ex.: `http://localhost:5173`).
 - `dt` é limitado a `0.05` para evitar saltos grandes em quedas de FPS.
 - As coordenadas de mundo são convertidas para tela com uma câmera 2D simples.
 - O grid é desenhado em coordenadas de mundo para reforçar a sensação de movimento.
-
-## Próximos passos (opcional)
-
-- Reiniciar sem recarregar a página
-- Aumentar dificuldade ao longo do tempo
-- Sons e efeitos visuais adicionais
