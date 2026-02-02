@@ -1,4 +1,4 @@
-# game-00
+# dodge-game-00
 
 Jogo simples em canvas (TypeScript + Vite) para rodar no navegador.
 
